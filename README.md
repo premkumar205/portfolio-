@@ -57,9 +57,6 @@ An app concept connecting users to **electricians, plumbers, and technicians** n
 - Features: User verification, real-time booking, ratings, and chat system  
 - Built with React Native (Expo)  
 
----
-
-## 🏅 Achievements & Certifications
 -
 ## 🌐 Connect With Me
 - 💼 [GitHub](https://github.com/Premkumar25-progmmer)
