@@ -62,7 +62,7 @@ An app concept connecting users to **electricians, plumbers, and technicians** n
 ## 🏅 Achievements & Certifications
 - Infosys Springboard Certified (Python, AI Fundamentals, Data Science Essentials)  
 - Completed multiple real-world Streamlit projects hosted online  
-- CGPA: 7.58 (Diploma) | CGPA: 10 (SSC)  
+  
 
 ---
 
