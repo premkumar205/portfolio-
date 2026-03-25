@@ -61,7 +61,6 @@ An app concept connecting users to **electricians, plumbers, and technicians** n
 
 ## 🏅 Achievements & Certifications
 - Infosys Springboard Certified (Python, AI Fundamentals, Data Science Essentials)  
-- Completed multiple real-world Streamlit projects hosted online  
   
 
 ---
