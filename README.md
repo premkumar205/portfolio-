@@ -61,8 +61,4 @@ An app concept connecting users to **electricians, plumbers, and technicians** n
 ## 🌐 Connect With Me
 - 💼 [GitHub](https://github.com/Premkumar25-progmmer)
 - 🔗 [LinkedIn](https://www.linkedin.com)
-- ✉️ [Email](mailto:yadavpremkumar436@gmail.com)
 
----
-
-⭐ *“Building smart solutions with data and intelligence.”*  
